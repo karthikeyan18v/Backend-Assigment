@@ -111,5 +111,5 @@ Start Class
 ```bash
 curl -X POST http://localhost:8080/classes/c1/start
 ```
-
+## All outputs are available in the `images` folder.
 
